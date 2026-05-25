@@ -38,17 +38,23 @@ cleanup-image:
       done
 ```
 
-<img width="1497" height="164" alt="изображение_2026-05-12_224600664" src="https://github.com/user-attachments/assets/fcd65f24-1091-43a9-b31c-cfdf59c60e51" />
+
+![](https://github.com/user-attachments/assets/fcd65f24-1091-43a9-b31c-cfdf59c60e51)
+
 
 ### Настроить в Nexus задачи по расписанию для удаления неиспользуемых слоев и блобов
 
-<img width="1435" height="40" alt="image" src="https://github.com/user-attachments/assets/39e7ff3a-36fe-4fa1-8855-710468c8caf8" />
+
+![](https://github.com/user-attachments/assets/39e7ff3a-36fe-4fa1-8855-710468c8caf8)
+
 
 Также я добавил cleanup policy:
 
-<img width="1024" height="366" alt="image" src="https://github.com/user-attachments/assets/00afa558-e588-4746-b064-5e7981ac2f76" />
 
-<img width="777" height="236" alt="image" src="https://github.com/user-attachments/assets/fd095242-c745-46e0-ae19-871727822b7d" />
+![](https://github.com/user-attachments/assets/00afa558-e588-4746-b064-5e7981ac2f76)
+
+![](https://github.com/user-attachments/assets/fd095242-c745-46e0-ae19-871727822b7d)
+
 
 ### Версионирование и работа с CHANGELOG.md
 
@@ -89,4 +95,4 @@ changelog:
 
 ## Итоговый pipeline
 
-<img width="1475" height="485" alt="image" src="https://github.com/user-attachments/assets/d25b5063-d4f5-48b8-89e9-4c604dff667b" />
+![Итоговый pipeline](https://github.com/user-attachments/assets/d25b5063-d4f5-48b8-89e9-4c604dff667b)
